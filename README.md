@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# blw's project house
 
-You can use the [editor on GitHub](https://github.com/iblowmymind/iblowmymind.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+hello, i'm blw
+- i like to mess around with old technology
+- i like making music in my free time
+- i'm pretty chill
+- i like listening to music that's made by lapfox trax / halley labs, other than that i generally enjoy EDM-style music, with a bit of noise / ambiance / drone.
+- yeah other than that, i like gaming and watching anime
+- yes
 
-### Markdown
+## Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I publish my projects here. You can find a list of them below.
 
-```markdown
-Syntax highlighted code block
+### Userstyles
 
-# Header 1
-## Header 2
-### Header 3
+You can find the Userstyles I maintain for [Stylus](https://github.com/openstyles/stylus) here. Please do note that they're not really intended for usage for anyone other than me. Be advised!
 
-- Bulleted
-- List
+For more details see [the Userstyles page](https://iblowmymind.github.io/userstyles).
 
-1. Numbered
-2. List
+### Powercord Theme (Material Madness)
 
-**Bold** and _Italic_ and `Code` text
+I am also work on a powercord theme for myself. Check it out [here](https://iblowmymind.github.io/material-madness).
 
-[Link](url) and ![Image](src)
-```
+### Miscallaneous
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Well, there isn't much else to see. If you're really curious check out my [GitHub profile](https://github.com/iblowmymind).
 
-### Jekyll Themes
+## Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iblowmymind/iblowmymind.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You probably don't want this. But my discord is `blw#9687` in case you need it.
